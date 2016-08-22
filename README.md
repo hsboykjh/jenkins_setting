@@ -24,5 +24,6 @@ add rsa key to ssh agent
 add jenkins rsa to ~/.ssh/authorized_keys
 
 ##3.Jenkins server
+test ssh connect
 <code>ssh remote_server_address</code>
 
